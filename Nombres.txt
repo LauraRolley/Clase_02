@@ -1,5 +1,5 @@
-Ignacio Garcia
-Lucia Sanchez
+Ignacio Garcia - 1
+Lucia Sanchez -2 
 Laura Roldan 
 Sergio 
 Camila Guerrero
@@ -7,3 +7,4 @@ Cesar Cabrera
 Guillermo 
 Jose Angel 
 Karen 
+123456
